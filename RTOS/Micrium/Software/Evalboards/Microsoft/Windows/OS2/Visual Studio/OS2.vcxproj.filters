@@ -102,7 +102,7 @@
     <ClCompile Include="..\app_hooks.c">
       <Filter>App</Filter>
     </ClCompile>
-    <ClCompile Include="..\ostask.c">
+    <ClCompile Include="..\T3-14.c">
       <Filter>App</Filter>
     </ClCompile>
   </ItemGroup>
